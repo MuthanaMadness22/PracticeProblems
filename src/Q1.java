@@ -18,6 +18,8 @@ public class Q1 {
 //        }
 //        return lib.get(year);
 //    }
+    
+    // Testing things out rn
     public static void main(String[] args) {
 
         Integer[] year = {1992,1993,1994,1994,1995,1996,1997,1998,1999,2000,2001,2002};
